@@ -1,3 +1,9 @@
+/*
+ *Author:	Abhiraj D
+ *Description:	BST Generator
+ */
+
+
 #include<stdio.h>
 #include<stdlib.h>
 
